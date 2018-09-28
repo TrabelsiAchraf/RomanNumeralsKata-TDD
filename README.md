@@ -7,7 +7,7 @@ A demo project that solve RomanNumeral kata by implementing Unit Test using XCTe
 
 
 ### Requirements
-- iOS 11.0+ 
+- iOS 12.0+ 
 - Xcode 10+
 - Swift 4.2+
 
